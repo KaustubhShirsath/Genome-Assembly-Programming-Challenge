@@ -4,8 +4,8 @@
 Coursera/Genome Assembly Programming Challenge/Week 3/Problem 5:
 Assembling the phi X174 Genome from Error-Prone Reads using de Bruijn Graphs
 Grading: 'Good job! (Max time used: 0.83/50.00, max memory used: 39194624/536870912.)'
-Author: Andrii Shostatskyi
-Email: shostatskyi.andrii@gmail.com
+Author: Kaustubh Shirsath
+Email: ksts135@gmail.com
 Respect Coursera Honor Code
 Copyright © 2018. All rights reserved
 """
